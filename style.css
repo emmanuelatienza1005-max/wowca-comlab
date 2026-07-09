@@ -184,4 +184,17 @@ nav ul{
 display:none;
 }
 
+}.logo{
+    display:flex;
+    align-items:center;
+    color:#38bdf8;
+    font-size:22px;
+    font-weight:bold;
+}
+
+.school-logo{
+    width:40px;
+    height:40px;
+    margin-right:12px;
+    border-radius:50%; /* Remove this if your logo isn't circular */
 }
